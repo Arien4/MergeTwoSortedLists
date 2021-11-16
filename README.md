@@ -1,5 +1,5 @@
 # MergeTwoSortedLists
-The LeetCode [Merge Two Sorted Lists](https://github.com/Arien4/MergeTwoSortedLists.git problem)
+The LeetCode [Merge Two Sorted Lists](https://github.com/Arien4/MergeTwoSortedLists.git) problem
 > Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.
 >
 > - Example 1:
